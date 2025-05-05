@@ -98,7 +98,29 @@ These patterns demonstrate the **emergent complexity** of the system.
 - CAs inspire **cellular neural networks**, **genetic algorithms**, and **complexity theory**.
 
 ---
+## Test questions 
+1.  **Which of the following best describes a "cellular automaton"?** 
+- A. A mechanical device used in factories
+- B. A biological simulation involving only continuous equations
+- C. A type of neural network used in AI
+- D. A collection of cells on a grid that evolve according to local rules
+- **Answer: D**
 
+2.  **In Conway's Game of Life, what happens to a live cell with exactly two or three live neighbors?**
+- A. It dies due to overpopulation
+- B. It stays alive
+- C. It turns into a dead cell
+- D. It reproduces
+-  **Answer: B**
+
+3. #### **What kind of neighborhood does the Game of Life use to determine cell state transitions?**
+- A. Von Neumann neighborhood
+- B. Circular neighborhood
+- C. Moore neighborhood
+- D. Hexagonal neighborhood
+ - **Answer: C**
+  
+---
 ## References
 
 - Conway, J.H. (1970). *The Game of Life*. Scientific American.
