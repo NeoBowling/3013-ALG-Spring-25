@@ -1,9 +1,9 @@
 # Presentation - Cecullar Automata 
-
+### [Canva Presentation Link](https://www.canva.com/design/DAGSWhyrw7M/hjQcs_3GSDRAjMXl8bEINw/edit?utm_content=DAGSWhyrw7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Overview
 
-This project explores **Cellular Automata (CA)** with a focus on **Conway’s Game of Life**, a classic example of how simple rules can generate complex and emergent behavior. The study includes the historical background, rules, significant patterns, and real-world applications of cellular automata.
+This presentation explores **Cellular Automata (CA)** with a focus on **Conway’s Game of Life**, a classic example of how simple rules can generate complex and emergent behavior. The study includes the historical background, rules, significant patterns, and real-world applications of cellular automata.
 
 ---
 
